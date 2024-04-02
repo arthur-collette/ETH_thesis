@@ -9,7 +9,6 @@ from functions import *
 from llama import Llama
 from gpt import GPT
 from flan import FLAN
-import openai
 
 parser = argparse.ArgumentParser(description='Create file')
 
